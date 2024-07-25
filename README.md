@@ -1,4 +1,4 @@
-# 💻 Guilherme Guilherme
+# Guilherme Guilherme
 
 Hello! I'm **Guilherme Guilherme**, a Computer Science student with a keen interest in **Cybersecurity**, **Digital Forensics**, and **System Administration**. Currently, I'm completing my Bachelor's degree at the [Instituto Politécnico de Leiria](https://www.ipleiria.pt/).
 
@@ -14,7 +14,7 @@ Hello! I'm **Guilherme Guilherme**, a Computer Science student with a keen inter
 
 ## 🛠️ Skills & Tools
 - **Languages**: Python, Java, C, Bash
-- **Technologies**: Wireshark, Git, Docker, GNS3
+- **Technologies**: Wireshark, Git, Docker, GNS3, Linux
 - **Frameworks & Tools**: Tkinter, ALEAPP, MobSF, JADX
 
 ## 📂 Notable Projects
