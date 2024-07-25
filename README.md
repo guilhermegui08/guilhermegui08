@@ -1,7 +1,5 @@
 # 💻 Guilherme Guilherme
 
-[//]: <> (![Profile Banner]())
-
 Hello! I'm **Guilherme Guilherme**, a passionate Computer Science student with a keen interest in **Cybersecurity**, **Digital Forensics**, and **System Administration**. Currently, I'm completing my Bachelor's degree at the [Instituto Politécnico de Leiria](https://www.ipleiria.pt/).
 
 ## 🎓 Education
