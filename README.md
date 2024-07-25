@@ -30,7 +30,7 @@ Planning, designing, configuring, and documenting a multi-ISP network using GNS3
 ### [APITik](https://github.com/guilhermegui08/APITik)
 Managing Mikrotik routers through an intuitive SDN controller built with Python and Tkinter.
 
-## 🎓 Bachelor Degree Final Project
+## 📱 Bachelor Degree Final Project
 For my Bachelor's final project, I conducted a forensic analysis in Android of mobile gym applications, performing artifact analysis, static analysis, dynamic analysis, and identifying vulnerabilities based on OWASP Top 10. This work led to the development of the following repositories:
 
 - [ADBExtractorAndAnalyzer](https://github.com/labcif/ADBExtractorAndAnalyzer)
