@@ -13,9 +13,11 @@ Hello! I'm **Guilherme Guilherme**, a Computer Science student with a keen inter
 - **System Administration**: Managing and maintaining IT infrastructure.
 
 ## 🛠️ Skills & Tools
-- **Languages**: Python, Java, C, Bash
-- **Technologies**: Wireshark, Git, Docker, GNS3, Linux
-- **Frameworks & Tools**: Tkinter, ALEAPP, MobSF, JADX
+- **Languages**: Python, C, PHP, HTML/CSS, JavaScript (Vue.js), Perl
+- **Technologies**: Linux, Docker, Git, Wireshark, Virtualization (Hyper-V, Proxmox, Citrix, VMware)
+- **Frameworks & Tools**: Laravel, Node.js, RESTful API, ADB, MobSF, Jadx, ALEAPP
+- **Networking & Security**: IPv4/IPv6, VLANs, DHCP, NAT, OSPF, RIPv2, iptables, OWASP
+
 
 ## 📂 Notable Projects
 ### [ADBExtractorAndAnalyzer](https://github.com/guilhermegui08/ADBExtractorAndAnalyzer)
