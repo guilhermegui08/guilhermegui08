@@ -16,7 +16,7 @@ Hello! I'm **Guilherme Guilherme**, a Computer Science student with a keen inter
 - **Languages**: Python, C, C#, PHP, HTML/CSS, JavaScript (Vue.js), Perl
 - **Technologies**: Linux, GNS3, Docker, Git, Wireshark, Virtualization (Hyper-V, Proxmox, Citrix, VMware)
 - **Frameworks & Tools**: Laravel, Node.js, RESTful API, ADB, MobSF, Jadx, ALEAPP
-- **Networking & Security**: IPv4/IPv6, VLANs, DHCP, NAT, OSPF, RIPv2, iptables, OWASP
+- **Networking & Security**: IPv4/IPv6, VLANs, DHCP, NAT, OSPF, RIPv2, BGP, MPLS VPN, iptables, OWASP
 
 
 ## 📂 Notable Projects
