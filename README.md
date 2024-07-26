@@ -13,7 +13,7 @@ Hello! I'm **Guilherme Guilherme**, a Computer Science student with a keen inter
 - **System Administration**: Managing and maintaining IT infrastructure.
 
 ## 🛠️ Skills & Tools
-- **Languages**: Python, C, PHP, HTML/CSS, JavaScript (Vue.js), Perl
+- **Languages**: Python, C, C#, PHP, HTML/CSS, JavaScript (Vue.js), Perl
 - **Technologies**: Linux, Docker, Git, Wireshark, Virtualization (Hyper-V, Proxmox, Citrix, VMware)
 - **Frameworks & Tools**: Laravel, Node.js, RESTful API, ADB, MobSF, Jadx, ALEAPP
 - **Networking & Security**: IPv4/IPv6, VLANs, DHCP, NAT, OSPF, RIPv2, iptables, OWASP
