@@ -1,23 +1,27 @@
 # Guilherme Guilherme
 
-Hello! I'm **Guilherme Guilherme**, a Computer Science student with a keen interest in **Cybersecurity**, **Digital Forensics**, and **System Administration**. Currently, I'm completing my Bachelor's degree at the [Instituto Politécnico de Leiria](https://www.ipleiria.pt/).
+Hello! I'm **Guilherme Guilherme**, a Computer Science graduate and current **Master’s student in Cybersecurity and Forensic Computing** at the [Instituto Politécnico de Leiria](https://www.ipleiria.pt/). I have professional experience as a **Network and Operating Systems Consultant**, providing IT support, systems administration, and network management across Portugal, Angola, and Mozambique.
 
 ## 🎓 Education
-- **Bachelor in Computer Science**  
-  *Instituto Politécnico de Leiria*
+- **Master’s in Cybersecurity and Forensic Computing** (Ongoing)  
+  *Instituto Politécnico de Leiria*  
+  Focus on applied research, industry collaboration, and advanced digital forensics.
 
-## 🌐 Interests
-- **Cybersecurity**: Exploring vulnerabilities and safeguarding systems.
-- **Digital Forensics**: Investigating and analyzing digital evidence.
-- **Computer Networks**: Understanding the backbone of our connected world.
-- **System Administration**: Managing and maintaining IT infrastructure.
+- **Bachelor in Computer Science**  
+  *Instituto Politécnico de Leiria*  
+  Focus on software development, virtualization, DevOps, cybersecurity, digital forensics, and systems/network administration.
+
+## 💼 Professional Experience
+- **Network and Operating Systems Consultant** – C.P.S. Consultores de Informática, S.A., Leiria  
+  Responsibilities included IT support, system administration, network configuration (routers, switches, NAS, Fortinet firewalls), Office 365 administration, Artsoft ERP support, mentoring interns, and coordinating teams for office IT deployments.
 
 ## 🛠️ Skills & Tools
-- **Languages**: Python, C, C#, PHP, HTML/CSS, JavaScript (Vue.js), Perl
-- **Technologies**: Linux, GNS3, Docker, Git, Wireshark, Virtualization (Hyper-V, Proxmox, Citrix, VMware)
-- **Frameworks & Tools**: Laravel, Node.js, RESTful API, ADB, MobSF, Jadx, ALEAPP
-- **Networking & Security**: IPv4/IPv6, VLANs, DHCP, NAT, OSPF, RIPv2, BGP, MPLS VPN, iptables, OWASP
-
+- **Languages**: Python, C, C#, Java, HTML/CSS, JavaScript (Vue.js), PHP, Perl  
+- **Systems & Virtualization**: Linux, Windows Server, VMware, Hyper-V, Proxmox, Citrix, Docker, HP servers  
+- **Networking & Security**: IPv4/IPv6, VLANs, DHCP, NAT, OSPF, RIPv2, BGP, MPLS VPN, Fortinet, QNAP/Synology NAS, iptables, OWASP  
+- **Software & Tools**: Office 365, Artsoft ERP, Git, Laravel, Node.js, RESTful API, ADB, MobSF, Jadx, ALEAPP  
+- **Hardware**: HP, Brother, Zebra printers, print servers  
+- **Team & Project Management**: Mentoring interns, coordinating teams, managing assets and IT office setups
 
 ## 📂 Notable Projects
 ### [ADBExtractorAndAnalyzer](https://github.com/guilhermegui08/ADBExtractorAndAnalyzer)
