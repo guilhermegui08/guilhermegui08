@@ -48,13 +48,9 @@ For my Bachelor's final project, I conducted a forensic analysis in Android of m
 
 I achieved a final grade of 19 out of 20 for this project.
 
-## 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/guilherme-guilherme-103a26240/)
-- [Email](guilhermeguilherme08@gmail.com)
+![GitHub Stats](https://github-readme-stats-extended.vercel.app/api?username=guilhermegui08&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilhermegui08&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegui08&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-extended.vercel.app/api/top-langs/?username=guilhermegui08&layout=donut&theme=radical)
 
 ---
 
