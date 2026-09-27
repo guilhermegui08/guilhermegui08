@@ -1,6 +1,6 @@
 # Guilherme Guilherme
 
-Hello! I'm **Guilherme Guilherme**, a Computer Science graduate and current **Master's student in Cybersecurity and Digital Forensics** at the [Instituto Politécnico de Leiria](https://www.ipleiria.pt/). My professional background spans systems administration, IoT development, and cybersecurity compliance, with open-source contributions in digital forensics and offensive security tooling.
+Hello! I'm **Guilherme Guilherme**, a Computer Science graduate and current **Master's student in Cybersecurity and Digital Forensics** at the [Instituto Politécnico de Leiria](https://www.ipleiria.pt/). My professional background spans systems administration, IoT development, and cybersecurity compliance, with open-source contributions in digital forensics tooling.
 
 ---
 
