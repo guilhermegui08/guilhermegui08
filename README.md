@@ -32,24 +32,11 @@ Hello! I'm **Guilherme Guilherme**, a Computer Science graduate and current **Ma
 
 ## 📂 Notable Projects
 
-### 🔍 Digital Forensics
-
 - **[ADBExtractorAndAnalyzer](https://github.com/labcif/ADBExtractorAndAnalyzer)**  
   Python tool to extract, analyze, and decompile Android data via ADB shell.
 
 - **[Nova_AI_Chatbot_ALEAPP](https://github.com/guilhermegui08/Nova_AI_Chatbot_ALEAPP)**  
   Four official ALEAPP modules now part of ALEAPP, automating artifact extraction and conversation reconstruction from the Nova AI Chatbot Android app.
-
-- **[Nova_AI_Chatbot_Frida](https://github.com/guilhermegui08/Nova_AI_Chatbot_Frida)**  
-  Frida script that hooks request headers to bypass premium paywalls.
-
-- **[Nova_AI_Chatbot_requests](https://github.com/guilhermegui08/Nova_AI_Chatbot_requests)**  
-  Bruno network collection for API replication.
-
-- **[GYM_Apps_ALEAPP](https://github.com/guilhermegui08/GYM_Apps_ALEAPP)**  
-  Forensic analysis of 10 Android gym apps with ALEAPP modules for extracting digital artifacts and identifying vulnerabilities.
-
-### 🛡️ Cybersecurity & Offensive Security
 
 - **[pcap2api-rs](https://github.com/guilhermegui08/pcap2api-rs)**  
   Rust-based threat-intelligence tool that extracts IPs, domains, and URLs from PCAP/CAP files and cross-references them against seven public threat-intelligence feeds (URLhaus, Feodo Tracker, PhishTank, Bambenek, Blocklist.de, Emerging Threats, AlienVault OTX).
@@ -57,15 +44,8 @@ Hello! I'm **Guilherme Guilherme**, a Computer Science graduate and current **Ma
 - **[GARS_Rapid_Miner_Machine_Learning](https://github.com/guilhermegui08/GARS_Rapid_Miner_Machine_Learning)**  
   SIEM project with Graylog 6.2, rapid-miner datasets, and machine-learning classification of attack events (Naive Bayes and Decision Tree).
 
-### ⚙️ IoT & Systems
-
 - **[KubeAPI](https://github.com/guilhermegui08/KubeAPI)**  
   Simplifying Kubernetes cluster management with Python and Tkinter.
-
-### 🌐 Networking
-
-- **[InterISP-Connect](https://github.com/guilhermegui08/InterISP-Connect)**  
-  Planning, designing, configuring, and documenting a multi-ISP network using GNS3.
 
 - **[APITik](https://github.com/guilhermegui08/APITik)**  
   Managing Mikrotik routers through an intuitive SDN controller built with Python and Tkinter.
